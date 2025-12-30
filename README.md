@@ -1,6 +1,3 @@
-This is a comprehensive and structured `README.md` for your **Customer Churn Prediction** project, based on the provided source files.
-
----
 
 # Customer Churn Prediction using Artificial Neural Networks (ANN)
 
@@ -66,6 +63,6 @@ streamlit run app.py
 * **Frameworks**: TensorFlow, Keras, Streamlit
 * **Data Handling**: Pandas, NumPy
 * **Machine Learning**: Scikit-learn (for scaling and encoding)
-* **Visualization**: TensorBoard, Matplotlib
+* **Visualization**: TensorBoard
 
 ---
